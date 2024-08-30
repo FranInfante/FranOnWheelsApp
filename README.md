@@ -15,7 +15,7 @@ Visualización y Gestión de Reservas: Usa los dropdowns para ver tus reservas a
 🌐 Tecnologías Utilizadas
 Backend: Spring Boot
 Frontend: Angular
-Base de Datos: [Nombre de la base de datos utilizada]
-Otras Herramientas: [Si hay otras herramientas o librerías importantes]
+Base de Datos: PostgreSQL (DBeaver)
+Otras Herramientas: Docker, Fork y Postman
 🎨 Inspiración y Objetivo
 La idea surgió a partir de la experiencia frustrante con la plataforma de reservas de una autoescuela real. FranOnWheels no solo mejora la funcionalidad, sino que también optimiza la experiencia del usuario, facilitando una gestión de reservas sin errores y sin problemas.
